@@ -21,7 +21,7 @@ https://github.com/ManthanUgemuge/WordTypingGame.git
 
 ```
 - Run Directly - [Play](https://manthanugemuge.github.io/WordTypingGame/)
-- Access All Games -
+- Access All Games - [WebGames-Projects](https://github.com/ManthanUgemuge/WebGames-Projects)
 
 
 ## Contributing
