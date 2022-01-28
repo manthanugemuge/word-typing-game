@@ -3,7 +3,8 @@
 A Simple Word Typing Game using Basic Html, CSS & Javascript
 
 ## About The Project
-
+- Type word which is visible on screen and simply get forwarded to next word.
+- If wrong word is typed it will stop and score will be Shown on Screen.
 
 ## Tech Stacks Used
 
