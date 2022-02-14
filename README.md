@@ -24,7 +24,6 @@ https://github.com/ManthanUgemuge/WordTypingGame.git
 - Run Directly - [Play Word Typing Game](https://manthanugemuge.github.io/WordTypingGame/)
 - Access All Games - [WebGames-Projects](https://github.com/ManthanUgemuge/WebGames-Projects)(Click Here)
 
-
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
 
