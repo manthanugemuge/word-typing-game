@@ -14,7 +14,6 @@ A Simple Word Typing Game using Basic Html, CSS & Javascript
 
 ## How to use Project
 
-
 - Download or clone the repository Website : 
 
 ```
