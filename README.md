@@ -20,7 +20,7 @@ A Simple Word Typing Game using Basic Html, CSS & Javascript
 https://github.com/ManthanUgemuge/Word-Typing-Game.git
 ```
 - Run Directly - [Play](https://manthanugemuge.github.io/WordTypingGame/)
-- Access All Games - [WebGames-Projects](https://github.com/ManthanUgemuge/WebGames-Projects)(Click Here)
+- Access All Games - [Web Games Projects](https://github.com/ManthanUgemuge/WebGames-Projects)(Click Here)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
