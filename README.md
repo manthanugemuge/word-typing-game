@@ -1,4 +1,4 @@
-# WordTypingGame
+# Word Typing Game
 
 A Simple Word Typing Game using Basic Html, CSS & Javascript
 
