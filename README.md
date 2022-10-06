@@ -17,7 +17,7 @@ A Simple Word Typing Game using Basic Html, CSS & Javascript
 - [Download](https://github.com/ManthanUgemuge/WordTypingGame/archive/refs/heads/main.zip) or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/Word-Typing-Game.git
+https://github.com/manthanugemuge/word-typing-game.git
 ```
 - Run Directly - [Play](https://manthanugemuge.github.io/WordTypingGame/)
 - Access All Games - [Web Games Projects](https://github.com/ManthanUgemuge/WebGames-Projects)(Click Here)
