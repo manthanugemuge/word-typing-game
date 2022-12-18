@@ -20,12 +20,9 @@ A Simple Word Typing Game using Basic Html, CSS & Javascript
 https://github.com/manthanugemuge/word-typing-game.git
 ```
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/advance-snake-game/archive/refs/heads/main.zip)
-[![Play Game](https://custom-icon-badges.herokuapp.com/badge/-Play_Game-3A3B3C?style=for-the-badge&logo=controller&logoColor=white "Play Game")](https://manthanugemuge.github.io/advance-snake-game/)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/word-typing-game/archive/refs/heads/main.zip)
+[![Play Game](https://custom-icon-badges.herokuapp.com/badge/-Play_Game-3A3B3C?style=for-the-badge&logo=controller&logoColor=white "Play Game")](https://manthanugemuge.github.io/WordTypingGame/)
 [![Access All Game](https://custom-icon-badges.herokuapp.com/badge/-Access_All_Game-0C090A?style=for-the-badge&logo=controller&logoColor=white "Access All Game")](https://github.com/manthanugemuge/WebGames-Projects)
-
-- Run Directly - [Play](https://manthanugemuge.github.io/WordTypingGame/)
-- Access All Games - [Web Games Projects](https://github.com/ManthanUgemuge/WebGames-Projects)(Click Here)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
